@@ -1,0 +1,11 @@
+{
+  "name": "blocktestlib",
+  "version": "0.0.1",
+  "description": "A library of solidity contracts to be used in the Blocktest-IDE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prateek-adhikaree/blocktestlib.git"
+  },
+  "author": "Prateek Adhikaree prateek.adhikaree@blocktest.net",
+  "license": "MIT"
+}
