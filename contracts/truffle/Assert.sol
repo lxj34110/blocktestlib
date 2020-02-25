@@ -1,7 +1,7 @@
 // This file taken from here: https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/Assert.sol
 // It was renamed to Assert.sol by Tim Coulter. Refactored for solidity 0.5.0 by Cruz Molina.
 
-pragma solidity >= 0.4.15 < 0.6.0;
+pragma solidity >= 0.4.15 < 0.7.0;
 
 import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertString.sol";
 import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertBytes32.sol";
