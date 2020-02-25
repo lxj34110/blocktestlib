@@ -3,20 +3,20 @@
 
 pragma solidity >= 0.4.15 < 0.7.0;
 
-import "truffle/AssertString.sol";
-import "truffle/AssertBytes32.sol";
-import "truffle/AssertAddress.sol";
-import "truffle/AssertBool.sol";
-import "truffle/AssertUint.sol";
-import "truffle/AssertInt.sol";
-import "truffle/AssertUintArray.sol";
-import "truffle/AssertIntArray.sol";
-import "truffle/AssertAddressArray.sol";
+import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertString.sol";
+import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertBytes32.sol";
+import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertAddress.sol";
+import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertBool.sol";
+import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertUint.sol";
+import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertInt.sol";
+import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertUintArray.sol";
+import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertIntArray.sol";
+import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertAddressArray.sol";
 // import "truffle/AssertAddressPayableArray.sol";
 // ^would require an oldAssert.sol (0.4.0) & a newAssert.sol (0.5.0)
-import "truffle/AssertBytes32Array.sol";
-import "truffle/AssertBalance.sol";
-import "truffle/AssertGeneral.sol";
+import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertBytes32Array.sol";
+import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertBalance.sol";
+import "https://raw.githubusercontent.com/trufflesuite/truffle/develop/packages/core/lib/testing/AssertGeneral.sol";
 
 /*
     File: Assertions.slb
